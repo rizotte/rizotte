@@ -1,6 +1,6 @@
 # hi there 👾
 
-just a regular power user who loves Arch Linux with tiling window managers. doing a bit of development and stuff. i use arch btwwww
+normal user
 
 ---
 
@@ -25,8 +25,6 @@ just a regular power user who loves Arch Linux with tiling window managers. doin
 
 ### 🚀 Current Focus
 
-* 🐧 **Ricing & Customization:** recently installed Hyprland again, currently tweaking and configuring it.
-* 💻 **Development:** customizing Neovim into a comfortable IDE. The config is still work-in-progress, but you can find what's ready in my dotfiles.
 * 📚 **Learning:** leveling up skills in product-oriented development and automation.
 
 ---
