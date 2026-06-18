@@ -7,7 +7,7 @@ normal user
 ### ⚙️ My Setup & Environments
 
 * 🪟 **OS / WM:** Windows 11 + GlazeWM & YASB (bringing the tiling experience to Windows)
-* 📝 **Editors:** Zed + Vim (always tweaking configs for the cozy IDE feel)
+* 📝 **Editors:** Zed + VSCode
 
 👉 **Check out my configuration files here:** [My Dotfiles](https://github.com/rizotte/dotfiles)
 
