@@ -4,16 +4,16 @@ normal user
 
 ---
 
-### ⚙️ My Setup & Environments
+### ⚙️ setup
 
-* 🪟 **OS / WM:** Windows 11 + GlazeWM & YASB (bringing the tiling experience to Windows)
-* 📝 **Editors:** Zed + VSCode
+* 🪟 **OS / WM:** Windows 11 + GlazeWM & YASB
+* 📝 **Editors:** VS Code
 
-👉 **Check out my configuration files here:** [My Dotfiles](https://github.com/rizotte/dotfiles)
+👉 **check my dots:** [My Dotfiles](https://github.com/rizotte/dotfiles)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ tech stack
 
 ![Windows](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed_Editor-4B32C3?style=for-the-badge&logo=zed&logoColor=white)
@@ -23,14 +23,7 @@ normal user
 
 ---
 
-### 🚀 Current Focus
-
-* 🎮 **Gamedev:** experimenting with Godot Engine.
-* 📚 **Learning:** leveling up skills in product-oriented development and automation.
-
----
-
-### 📫 How to reach me
+### 📫 how to reach
 
 * **Telegram:** [@rizottte](https://t.me/rizottte)
 * **Email:** 09salty1@gmail.com
